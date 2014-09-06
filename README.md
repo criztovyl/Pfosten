@@ -1,7 +1,7 @@
 #ABOUT
 This is an emerging PHP-script for doing simple polls or surveys.
 
-It's writter for/with [EllisLab](https://ellislab.com/) CodeIgniter.
+It's written for/with [EllisLab](https://ellislab.com/) CodeIgniter.
 
 #INSTALL
 
