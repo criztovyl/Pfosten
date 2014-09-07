@@ -6,7 +6,7 @@ It's written for/with [EllisLab](https://ellislab.com/) CodeIgniter.
 #INSTALL
 
  * Download CodeIgniter: [https://ellislab.com/codeigniter](https://ellislab.com/codeigniter)
- * Copy the `application` directory from this to your CodeIgniter installation
+ * Copy this directory to your CodeIgniter installation
 
 #CONFIGURATION
 
